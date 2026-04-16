@@ -1,0 +1,12 @@
+id,name,age,city,score,join_date
+1,Alice,28,new york,92.5,2023-01-15
+2,bob,  ,London,88.0,2023-02-20
+3,CAROL,34,Paris,,2023-03-10
+4,David,29,new york,76.3,2023-04-05
+2,bob,,London,88.0,2023-02-20
+5,Eve,-5,berlin,95.1,2023-05-18
+6,,41,Tokyo,70.0,2023-06-22
+7,Frank,38,  PARIS  ,82.4,2023-07-30
+8,Grace,31,Sydney,abc,2023-08-14
+9,Heidi,27,berlin,90.0,not-a-date
+10,Ivan,999,Moscow,65.5,2023-10-01
